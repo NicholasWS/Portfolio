@@ -1,4 +1,4 @@
-body,html {
+  body,html {
     margin: 0px 100px 50px 100px;
     font: bold 14px/1.4 'Futura', Trebuchet, sans-serif;
     color: #fff;
@@ -68,9 +68,9 @@ body,html {
     margin-left: auto;
     margin-right: auto;
     animation: fadeIn 2s;
-}
+  }
 
-.grid_1_1_1 {
+  .grid_1_1_1 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin-top: 100px;
@@ -137,7 +137,7 @@ body,html {
     margin-top: 50px;
     width: auto;
     animation: fadeIn 2s;
-    }
+  }
 
   .logo {
     display: block;
@@ -146,7 +146,7 @@ body,html {
     margin-top: 100px;
     width: 30%;
     animation: fadeIn 2s;
-    }
+  }
 
   .CV {
     display: inline-block;
